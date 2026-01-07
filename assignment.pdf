@@ -1,0 +1,10 @@
+# Embedded JSON serialization libarary for smart meyter data.
+The goal of this assignment is to design and implement an embedded-friendly software library that serializes structured smart meter data into a predefined JSON format.
+This project represents a realistic part of a smart-meter / w-M-Bus data pipeline where measurement data is converted from internal data structures into JSON for gateway or backend integration.
+The focus of this implementation is on:
+- Clean software architecture
+- Embedded-oriented API design
+- Controlled memory usage
+- Robust error handling
+- Clear and complete documentation
+w-M-Bus radio communication, OMS protocol handling, encryption, and real meter interaction are intentionally kept out of scope.
